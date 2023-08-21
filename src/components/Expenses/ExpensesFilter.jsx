@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 
-import '../../styles/ExpensesFilter.css';
+import './css/ExpensesFilter.css';
 
 const ExpensesFilter = (props) => {
 
